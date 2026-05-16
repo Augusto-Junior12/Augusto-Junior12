@@ -29,7 +29,7 @@ Sou um **Analista de Sistemas Full Stack** com mente de **Analista de Negócios*
 ---
 
 ### 📊 Estatísticas e Insights
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Junior12&layout=compact&theme=vision-friendly-dark)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Junior12&layout=compact&theme=vision-friendly-dark)
 
 ---
 
